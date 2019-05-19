@@ -19,7 +19,7 @@ public class HomeServlet extends HttpServlet {
 		System.out.println("Created /t:"+this.getClass().getSimpleName());
 	
     }
-//do post method  from github
+//do post method  from githubzzzz
 	
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
